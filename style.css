@@ -545,9 +545,9 @@ p {
 }
 #footer .social-icon {
 	display: flex;
-	height: 20px;
-	width: 20px;
-	margin-bottom: 30px;
+	height: 100px;
+	width: 150px;
+	margin-bottom: 50px;
 }
 #footer .social-item {
 	height: 50px;
