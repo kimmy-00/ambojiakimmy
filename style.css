@@ -26,6 +26,7 @@ a {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	max-height: 100%; max-width:inherit;
 }
 body{
 	background-color: #07644d;
