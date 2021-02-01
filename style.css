@@ -204,6 +204,16 @@ p {
 	top: 0;
 }
 /* End Header section */
+#video {
+	/*background-clip: url(./videos/2.mp4);*/
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+	margin: 10px 5%;
+	max-width: 3000px;
+	
+}
 
 /* Hero Section */
 #hero {
