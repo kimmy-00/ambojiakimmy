@@ -63,7 +63,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid #f89717;
+	border: 2px solid black;
 	font-size: 4rem;
 	text-transform: uppercase;
 	letter-spacing: .1rem;
@@ -73,7 +73,7 @@ p {
 }
 .cta:hover {
 	color: black;
-	background-color: #f89717;
+	background-color: black;
 }
 .brand h1 {
 	font-size: 3rem;
