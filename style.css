@@ -29,7 +29,7 @@ video {
 	max-height: 100%; max-width:inherit;
 }
 body{
-	background-color: #07644d;
+	background-color: white;
   }
   
 img {
@@ -48,7 +48,7 @@ p {
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
-	color: white;
+	color: black;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: .2rem;
